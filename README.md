@@ -47,16 +47,6 @@
 
 ---
 
-### 📱 Temukan Saya di TikTok
-
-<p align="center">
-  <a href="https://www.tiktok.com/@alvanfaith" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <em>“Keep building. Keep learning. Keep growing.”</em>
 </p>
